@@ -1,2 +1,0 @@
-# KevinJewelry
-KevinJewelry QR website
